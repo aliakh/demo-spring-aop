@@ -1,0 +1,6 @@
+rootProject.name = 'demo-spring-aop'
+
+include 'aop-cglib-proxy'
+include 'jdk-dynamic-proxy'
+include 'aspectj-compile-time-weaving'
+include 'aspectj-load-time-weaving'
